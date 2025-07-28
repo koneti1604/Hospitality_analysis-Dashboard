@@ -1,4 +1,4 @@
-:🏨 Hospitality Analysis Dashboard
+🏨 Hospitality Analysis Dashboard
 
 📌 Objective
 Analyze hotel booking patterns using Python and Power BI to help the hospitality sector make informed, data-driven business decisions.
