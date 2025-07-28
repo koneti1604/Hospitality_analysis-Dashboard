@@ -5,22 +5,31 @@ Analyze hotel booking patterns using Python and Power BI to help the hospitality
 
 # 👩‍💻 Tech Stack
 Data Analysis: Python (Pandas, Seaborn, Plotly)
+
 Data Visualization: Power BI
 
 # 📊 Key Metrics
 
 Duration Covered: May to July
+
 Properties Analyzed: Multiple hotels across cities
+
 Room Categories: RT1, RT2, RT3, RT4
+
 Booking Platforms: OTA, Direct, Corporate, etc.
+
 Booking Status: Checked Out, Cancelled, No Show
 
 # 📈 Visuals Developed in Power BI
 
 Bar Charts: Room type popularity, property-wise booking trends
+
 Donut/Pie Charts: Booking status distribution, platform usage
+
 Heat Maps: Revenue trends by month and city
+
 Line Graphs: Daily and weekly booking trends
+
 KPIs & Cards: Total Revenue, Avg Rating, Booking Counts
 
 # 🔍 Key Insights
@@ -49,9 +58,13 @@ Higher ratings tend to reflect higher guest retention and earnings.
 5 core CSV files were used in the analysis:
 
 dim_date – Date, day type, week number
+
 dim_hotels – Property ID, name, category, city
+
 dim_rooms – Room types and classes
+
 fact_aggregated_bookings – Successful bookings and room capacity
+
 fact_bookings – Booking ID, guest count, check-in/out, ratings, revenue
 
 
@@ -59,19 +72,13 @@ fact_bookings – Booking ID, guest count, check-in/out, ratings, revenue
 Adopt data-driven strategies in:
 
 Revenue Management: Maximize profits by targeting mid-tier rooms and optimizing pricing on weekends.
+
 Customer Engagement: Improve guest satisfaction through personalized services and staff training.
+
 Channel Optimization: Promote direct booking channels for higher revenue realization.
+
 Retention Programs: Introduce loyalty rewards and flexible policies for luxury guests.
 
-👤 Author
-Koneti Sarayu
-Data Analyst | Python & Power BI Developer | Engineering Student
-📧 [Your Email or LinkedIn]
-
-📷 Demo
-Include Power BI screenshots or a published dashboard link here if available.
-
-Let me know if you'd like it as a downloadable .md file or want help uploading this to your GitHub repo.
 
 
 
@@ -80,5 +87,3 @@ Let me know if you'd like it as a downloadable .md file or want help uploading t
 
 
 
-
-Ask ChatGPT
