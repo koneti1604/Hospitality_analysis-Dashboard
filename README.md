@@ -1,7 +1,6 @@
 # 🏨 Hospitality Analysis Dashboard
 
-# 📊 Project Overview
-The Hospitality Analysis Dashboard is a data analytics project that provides comprehensive insights into hotel booking behavior using Python for data analysis and Power BI for interactive visualizations. The project focuses on analyzing room bookings, customer behavior, revenue generation, and occupancy trends to support decision-making in the hospitality industry.
+
 
 # 📌 Objective
 Analyze hotel booking patterns using Python and Power BI to help the hospitality sector make informed, data-driven business decisions.
