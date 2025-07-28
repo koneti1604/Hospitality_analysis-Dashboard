@@ -1,6 +1,5 @@
-:
+:🏨 Hospitality Analysis Dashboard
 
-#🏨 Hospitality Analysis Dashboard
 📌 Objective
 Analyze hotel booking patterns using Python and Power BI to help the hospitality sector make informed, data-driven business decisions.
 
@@ -64,7 +63,6 @@ dim_rooms – Room types and classes
 fact_aggregated_bookings – Successful bookings and room capacity
 
 fact_bookings – Booking ID, guest count, check-in/out, ratings, revenue
-
 
 
 💡 Overall Recommendation
